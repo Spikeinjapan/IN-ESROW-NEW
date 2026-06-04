@@ -14,7 +14,7 @@
 
 Emerging blockchain ecosystems — including Qubic — require deep liquidity from established EVM networks. Real-time cross-chain bridges remain one of the industry's most exploited attack surfaces, routinely resulting in multi-million dollar losses and acting as a barrier for both institutional and retail capital.
 
-**IN\_ESCROW** replaces vulnerable real-time bridge mechanics with a **batch-settled, escrow-backed model** governed by shareholder decentralisation. Every wrapped asset issued on Qubic is fully backed 1:1 by native assets held in escrow. No real-time attack vectors. No developer dependency post-deployment.
+**IN\_ESCROW** replaces vulnerable real-time bridge mechanics with a **batch-settled of wrapped token, escrow-backed model** governed by shareholder decentralisation. Every wrapped asset issued on Qubic is fully backed 1:1 by native assets held in escrow. No real-time attack vectors. No developer dependency post-deployment.
 
 ---
 
