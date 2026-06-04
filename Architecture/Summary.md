@@ -277,3 +277,7 @@ Its success can be measured through:
 ## Vision
 
 The Dual-Witness Hybrid Attestation Network aims to become the secure liquidity gateway for Qubic, replacing vulnerable bridge architectures with a shareholder-governed, escrow-backed model that prioritizes security, transparency, and sustainable ecosystem growth. 
+
+## System Overview
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/969d0781-6953-440e-a4fd-a4b0cb73e8bc" />
