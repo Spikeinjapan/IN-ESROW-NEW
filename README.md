@@ -119,11 +119,13 @@ within the relevant liquidity pool.
 
 ### Initial Fundraising Allocation
 
+Mulitples of $81,200 ($80,000 Liq + $1200 fees)
+
 | Allocation | Share |
 |---|---|
-| Core Liquidity Pools | `98.5%` |
+| Core Liquidity Pools | `98.53%` |
 | Smart Contract Shareholders | `1.0%` |
-| Initial Update & Audit Pool | `0.5%` |
+| Initial Update & Audit Pool | `0.47%` |
 
 ### QSWAP Premium Fee Distribution
 
