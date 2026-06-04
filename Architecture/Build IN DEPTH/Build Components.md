@@ -1,4 +1,10 @@
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7387ab00-fc10-4e5e-9a2d-7e52571cfd6b" />
+
+
+
+
 # Dual-Witness Hybrid-Attestation Network
 ### Qubic Vault Escrow Protocol · v6.1
 
