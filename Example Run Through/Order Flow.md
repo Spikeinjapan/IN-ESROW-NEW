@@ -37,7 +37,7 @@
 
 | Action | Detail |
 |---|---|
-| Token proposal | Developer registers `qDOGE` on the Qubic Factory Smart Contract |
+| Token proposal | Developer registers `qPEPE` on the Qubic Factory Smart Contract |
 | Wallet setup | Public donation wallet is established on Qubic |
 | Initial state | All subscriptions are **locked** — no deposits accepted yet |
 
