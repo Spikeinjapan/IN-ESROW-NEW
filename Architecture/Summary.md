@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The Dual-Witness Hybrid Attestation Network (DWHAN) is a secure cross-chain asset onboarding protocol designed specifically for the Qubic ecosystem. Rather than using a traditional bridge architecture, the protocol introduces a bounded-liability escrow and attestation model that enables assets from BASE and BNB Chain to enter Qubic safely while eliminating many of the largest historical bridge attack vectors. 
+The Dual-Witness Hybrid Attestation Network (DWHAN) is a secure cross-chain asset onboarding protocol designed specifically for the Qubic ecosystem. Rather than using a traditional bridge architecture, the protocol introduces a collateralised batch escrow and attestation model that enables assets from BASE and BNB Chain to enter Qubic safely while eliminating many of the largest historical bridge attack vectors. The wrapperd token is tradeable within Qubic until a depeg unwind has signalled and actionated.
 
 The protocol combines:
 
