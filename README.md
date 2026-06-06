@@ -132,7 +132,7 @@ Total additional trade fee: **0.70%**
 
 | Recipient | Share |
 |---|---|
-| Investor Allocations (Specic LP) | `0.50%` |
+| Investor Allocations (Specific LP) | `0.50%` |
 | Smart Contract Shareholders (ALL  Bridged LPs) | `0.08%` |
 | Updates & Audits Wallet (ALL  Bridged LPs)| `0.08%` |
 | Burn,Execution, Oracle Funds for ALL SC (ALL  Bridged LPs) | `0.04%` |
